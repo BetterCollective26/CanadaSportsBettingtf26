@@ -9,5 +9,16 @@
     "created_at_utc": "2026-02-03 22:18:57 UTC",
     "bundle_path": "bundles/table_test.html.json",
     "has_bundle": true
+  },
+  "csb-test-table-feb.html": {
+    "brand": "Canada Sports Betting",
+    "table_title": "CSB test table Feb",
+    "file": "csb-test-table-feb.html",
+    "pages_url": "https://bettercollective26.github.io/CanadaSportsBettingtf26/csb-test-table-feb.html",
+    "github_repo_url": "https://github.com/bettercollective26/CanadaSportsBettingtf26",
+    "created_by": "gauthambc",
+    "created_at_utc": "2026-02-09 21:01:25 UTC",
+    "bundle_path": "bundles/csb-test-table-feb.html.json",
+    "has_bundle": true
   }
 }
