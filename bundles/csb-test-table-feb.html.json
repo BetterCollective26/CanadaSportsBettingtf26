@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "widget_file_name": "csb-test-table-feb.html",
+  "brand": "Canada Sports Betting",
+  "created_by": "gauthambc",
+  "created_at_utc": "2026-02-09 21:01:24 UTC",
+  "table_name_words": "CSB test table Feb",
+  "widget_title": "",
+  "widget_subtitle": "",
+  "config": {
+    "brand": "Canada Sports Betting",
+    "title": "Table 1",
+    "subtitle": "Subheading",
+    "striped": true,
+    "show_header": true,
+    "center_titles": false,
+    "branded_title_color": true,
+    "show_footer": true,
+    "footer_logo_align": "Center",
+    "footer_logo_h": 36,
+    "show_footer_notes": false,
+    "footer_notes": "",
+    "show_heat_scale": false,
+    "cell_align": "Center",
+    "show_search": true,
+    "show_pager": true,
+    "show_embed": true,
+    "show_page_numbers": true,
+    "bar_columns": [],
+    "bar_max_overrides": {
+      "SUPER BOWL TICKET BURDEN INDEX (0\u2013100)": 100.0
+    },
+    "bar_fixed_w": 200,
+    "heat_columns": [],
+    "heat_overrides": {
+      "SUPER BOWL TICKET BURDEN INDEX (0\u2013100)": {}
+    },
+    "heat_strength": 0.55,
+    "heatmap_style": "Branded heatmap",
+    "header_style": "Keep original"
+  },
+  "col_format_rules": {},
+  "csv": "RANK,CITY,SUPER BOWL TICKET BURDEN INDEX (0\u2013100),WORK HOURS (PER TICKET),RENT MONTHS (PER TICKET),TRANSPORT MONTHS (PER TICKET),CHILDCARE MONTHS (PER TICKET),UTILITIES MONTHS (PER TICKET),GROCERY MONTHS (PER TICKET)\n1,\"Topeka, Kansas\",61.99,224,8.75,30.85,15.39,53.44,15.12\n2,\"Mobile, Alabama\",59.96,249,5.99,37.31,16.93,40.53,14.85\n3,\"Jackson, Mississippi\",56.62,287,7.05,37.95,11.29,27.57,15.12\n4,\"Tuscaloosa, Alabama\",53.58,256,5.68,37.31,6.25,43.14,14.85\n5,\"Enterprise, Nevada\",53.34,133,12.31,34.0,11.29,30.79,14.11\n6,\"Macon, Georgia\",52.95,247,5.18,33.81,4.67,56.44,14.85\n7,\"San Juan, Puerto Rico\",52.54,454,3.74,30.1,7.58,18.91,16.93\n8,\"Evansville, Indiana\",52.29,243,5.88,27.55,24.63,25.24,14.85\n9,\"Montgomery, Alabama\",51.98,223,6.23,37.31,5.99,40.44,14.85\n10,\"Clarksville, Tennessee\",51.75,193,5.17,36.57,9.12,43.14,14.98\n11,\"Athens, Georgia\",50.85,253,5.08,33.81,7.74,43.14,14.85\n12,\"Laredo, Texas\",50.63,198,5.8,28.26,19.35,33.36,15.12\n13,\"Greensboro, North Carolina\",50.43,220,4.44,36.23,8.78,41.53,14.85\n14,\"Las Cruces, New Mexico\",49.82,237,6.94,27.59,10.03,43.23,14.85\n15,\"McAllen, Texas\",49.68,215,8.34,28.26,7.53,40.37,15.12\n16,\"Davenport, Iowa\",49.5,202,4.71,24.68,20.99,38.7,15.25\n17,\"Baton Rouge, Louisiana\",49.24,241,4.67,33.93,3.52,49.04,14.98\n18,\"Chattanooga, Tennessee\",48.88,210,4.06,36.57,6.25,43.14,14.98\n19,\"Olathe, Kansas\",48.72,112,6.26,30.85,8.47,53.33,15.12\n20,\"Memphis, Tennessee\",48.63,251,5.81,36.57,3.97,32.84,14.98\n21,\"Fayetteville, North Carolina\",48.37,226,4.61,36.23,6.3,38.4,14.85\n22,\"Spring Hill, Florida\",48.33,196,4.84,35.81,6.62,49.97,13.88\n23,\"Birmingham, Alabama\",48.19,285,4.22,37.31,5.49,30.86,14.85\n24,\"High Point, North Carolina\",47.98,206,5.69,36.23,5.63,36.03,14.85\n25,\"Shreveport, Louisiana\",47.98,263,5.76,33.93,6.55,30.43,14.98\n26,\"Augusta, Georgia\",47.97,240,5.59,33.81,7.34,34.25,14.85\n27,\"Lafayette, Louisiana\",47.96,206,5.28,33.93,4.76,44.3,14.98\n28,\"Palm Bay, Florida\",47.86,193,4.78,35.81,6.77,48.86,13.88\n29,\"Dayton, Ohio\",47.68,292,5.44,27.78,12.31,33.26,14.6\n30,\"Provo, Utah\",47.67,209,5.64,27.73,7.24,52.1,14.85\n31,\"El Paso, Texas\",47.66,217,5.9,28.26,11.79,36.64,15.12\n32,\"Huntsville, Alabama\",47.53,178,4.6,37.31,5.99,40.44,14.85\n33,\"Winston-Salem, North Carolina\",47.14,222,4.7,36.23,5.63,36.03,14.85\n34,\"Little Rock, Arkansas\",46.94,206,5.77,34.92,6.55,30.24,15.25\n35,\"Wilmington, North Carolina\",46.33,205,4.58,36.23,5.13,37.42,14.85\n36,\"Tallahassee, Florida\",46.0,229,4.31,35.81,6.91,40.15,13.88\n37,\"Lubbock, Texas\",45.95,206,6.16,28.26,10.42,34.36,15.12\n38,\"Rockford, Illinois\",45.93,238,5.32,26.72,13.0,35.71,14.72\n39,\"Brownsville, Texas\",45.93,259,7.26,28.26,11.29,19.92,15.12\n40,\"Beaumont, Texas\",45.86,225,8.74,28.26,3.21,33.87,15.12\n41,\"Springfield, Missouri\",45.74,278,6.85,26.43,8.83,29.26,14.98\n42,\"College Station, Texas\",45.46,231,5.48,28.26,7.94,37.88,15.12\n43,\"Louisville, Kentucky\",45.37,192,4.61,36.94,5.42,36.01,14.6\n44,\"Durham, North Carolina\",45.19,162,3.83,36.23,4.33,45.09,14.85\n45,\"Toledo, Ohio\",45.17,266,7.67,27.78,4.62,33.97,14.6\n46,\"Charlotte, North Carolina\",45.15,163,3.8,36.23,4.25,45.09,14.85\n47,\"Lansing, Michigan\",44.92,238,7.39,22.38,10.44,38.14,14.72\n48,\"Waco, Texas\",44.81,255,5.64,28.26,7.97,31.63,15.12\n49,\"Elgin, Illinois\",44.54,141,4.4,26.72,4.04,67.73,14.72\n50,\"Tulsa, Oklahoma\",44.34,213,5.74,32.21,5.74,29.34,15.25\n51,\"Knoxville, Tennessee\",44.05,250,3.6,36.57,5.53,26.05,14.98\n52,\"Lincoln, Nebraska\",43.87,178,6.19,22.43,8.21,53.44,14.72\n53,\"Midland, Texas\",43.87,134,4.44,28.26,5.64,55.95,15.12\n54,\"Tyler, Texas\",43.78,192,5.64,28.26,10.57,31.63,15.12\n55,\"Lexington, Kentucky\",43.59,183,6.11,36.94,4.1,26.98,14.6\n56,\"Columbia, South Carolina\",43.47,224,5.22,33.86,4.67,30.54,14.72\n57,\"Wichita, Kansas\",43.18,199,6.52,30.85,7.39,24.82,15.12\n58,\"Gainesville, Florida\",43.03,276,4.08,35.81,6.62,25.99,13.88\n59,\"Eugene, Oregon\",42.92,197,4.81,29.1,5.54,51.35,13.88\n60,\"Kansas City, Kansas\",42.81,216,5.0,30.85,4.95,33.88,15.12\n61,\"Norman, Oklahoma\",42.71,192,5.49,32.21,4.27,31.36,15.25\n62,\"Oklahoma City, Oklahoma\",42.71,188,5.82,32.21,4.27,30.32,15.25\n63,\"Hartford, Connecticut\",42.59,289,3.4,24.42,8.18,46.34,14.35\n64,\"Murfreesboro, Tennessee\",42.55,172,4.84,36.57,5.53,26.05,14.98\n65,\"Savannah, Georgia\",42.54,221,3.23,33.81,7.68,30.41,14.85\n66,\"Akron, Ohio\",42.54,260,7.19,27.78,5.11,27.88,14.6\n67,\"Cincinnati, Ohio\",42.4,246,4.27,27.78,4.76,44.3,14.6\n68,\"Des Moines, Iowa\",42.36,194,5.48,24.68,4.95,46.79,15.25\n69,\"Raleigh, North Carolina\",42.23,154,3.85,36.23,4.73,35.88,14.85\n70,\"Killeen, Texas\",42.13,212,5.76,28.26,5.58,33.44,15.12\n71,\"Stockton, California\",42.13,169,4.52,24.33,27.09,25.49,13.33\n72,\"Aurora, Illinois\",42.03,141,4.03,26.72,4.94,59.76,14.72\n73,\"Columbus, Georgia\",41.87,222,4.44,33.81,4.25,29.41,14.85\n74,\"Lakeland, Florida\",41.83,207,3.77,35.81,10.03,25.99,13.88\n75,\"Wichita Falls, Texas\",41.82,218,6.61,28.26,4.27,30.32,15.12\n76,\"North Charleston, South Carolina\",41.8,207,3.34,33.86,7.68,30.47,14.72\n77,\"Miami, Florida\",41.74,220,2.27,35.81,3.78,44.29,13.88\n78,\"Springfield, Illinois\",41.59,194,6.85,26.72,8.83,29.26,14.72\n79,\"Corpus Christi, Texas\",41.54,188,5.7,28.26,4.81,36.82,15.12\n80,\"Sparks, Nevada\",41.38,146,4.84,34.0,5.06,40.56,14.11\n81,\"Independence, Missouri\",41.37,211,6.61,26.43,8.24,27.09,14.98\n82,\"New Orleans, Louisiana\",41.32,237,3.72,33.93,4.33,27.57,14.98\n83,\"Grand Rapids, Michigan\",41.32,196,4.05,22.38,7.45,55.01,14.72\n84,\"Cleveland, Ohio\",41.28,324,4.2,27.78,6.31,27.11,14.6\n85,\"Amarillo, Texas\",41.18,199,5.87,28.26,9.59,23.27,15.12\n86,\"Nashville, Tennessee\",41.17,170,3.44,36.57,4.75,30.39,14.98\n87,\"Abilene, Texas\",41.16,204,6.46,28.26,3.75,31.87,15.12\n88,\"Concord, North Carolina\",41.12,145,3.91,36.23,5.35,32.04,14.85\n89,\"Reno, Nevada\",40.84,166,4.16,34.0,5.02,39.56,14.11\n90,\"Meridian, Idaho\",40.55,130,7.82,28.63,11.29,27.57,13.88\n91,\"Springfield, Massachusetts\",40.54,254,6.85,24.13,8.83,29.26,14.11\n92,\"Albuquerque, New Mexico\",40.44,197,5.44,27.59,4.52,37.86,14.85\n93,\"Aurora, Colorado\",40.41,154,4.03,25.61,4.94,59.76,14.23\n94,\"Hialeah, Florida\",40.41,244,3.63,35.81,4.55,28.58,13.88\n95,\"Irving, Texas\",40.35,158,5.77,28.26,4.81,36.82,15.12\n96,\"Hollywood, Florida\",40.22,195,2.85,35.81,4.55,38.48,13.88\n97,\"Jacksonville, Florida\",40.06,189,4.2,35.81,5.16,31.05,13.88\n98,\"Waterbury, Connecticut\",40.03,235,4.52,24.42,5.21,46.34,14.35\n99,\"Allentown, Pennsylvania\",40.02,231,4.28,26.83,5.64,35.93,14.98\n100,\"Pembroke Pines, Florida\",39.95,156,2.97,35.81,7.36,36.61,13.88\n",
+  "hidden_cols": [],
+  "bar_columns": [],
+  "bar_max_overrides": {
+    "SUPER BOWL TICKET BURDEN INDEX (0\u2013100)": 100.0
+  },
+  "heat_columns": [],
+  "heat_overrides": {
+    "SUPER BOWL TICKET BURDEN INDEX (0\u2013100)": {}
+  }
+}
