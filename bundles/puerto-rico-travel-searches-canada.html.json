@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "widget_file_name": "puerto-rico-travel-searches-canada.html",
+  "brand": "Canada Sports Betting",
+  "created_by": "gauthambc",
+  "created_at_utc": "2026-02-17 14:04:26 UTC",
+  "table_name_words": "puerto-rico-travel-searches-canada",
+  "widget_title": "",
+  "widget_subtitle": "",
+  "config": {
+    "brand": "Canada Sports Betting",
+    "title": "Table 1",
+    "subtitle": "Subheading",
+    "striped": true,
+    "show_header": true,
+    "center_titles": false,
+    "branded_title_color": true,
+    "show_footer": true,
+    "footer_logo_align": "Center",
+    "footer_logo_h": 36,
+    "show_footer_notes": false,
+    "footer_notes": "",
+    "show_heat_scale": false,
+    "cell_align": "Center",
+    "show_search": true,
+    "show_pager": true,
+    "show_embed": true,
+    "show_page_numbers": true,
+    "bar_columns": [],
+    "bar_max_overrides": {},
+    "bar_fixed_w": 200,
+    "heat_columns": [],
+    "heat_overrides": {
+      "Total search interest (per 1M residents)": {}
+    },
+    "heat_strength": 0.55,
+    "heatmap_style": "Branded heatmap",
+    "header_style": "Keep original"
+  },
+  "col_format_rules": {},
+  "csv": "Rank,Province,Total search interest (per 1M residents),Puerto Rico searches (per 1M residents),San Juan searches (per 1M residents),Latin American population (%),Spanish speakers (%),Puerto Rican population (%),Weekly change in search interest (%)\n1,New Brunswick,434,342,93,0.32,0.16,0.0026,Not available\n2,Ontario,216,160,55,1.75,0.87,0.0021,4% increase\n3,Prince Edward Island,156,117,39,0.38,0.2,0.0,Not available\n4,Nova Scotia,134,100,34,0.3,0.13,0.0021,Not available\n5,British Columbia,115,90,25,1.32,0.62,0.0024,16% decrease\n6,Alberta,110,87,24,1.56,0.87,0.0021,38% increase\n7,Manitoba,93,73,20,0.96,0.51,0.0007,Not available\n8,Saskatchewan,82,61,21,0.5,0.24,0.0018,Not available\n9,Quebec,75,56,19,2.03,1.33,0.0015,Not available\n10,Newfoundland and Labrador,71,55,16,0.15,0.06,0.0,Not available\n",
+  "hidden_cols": [],
+  "bar_columns": [],
+  "bar_max_overrides": {},
+  "heat_columns": [],
+  "heat_overrides": {
+    "Total search interest (per 1M residents)": {}
+  }
+}
