@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "widget_file_name": "puerto-rico-travel-searches-us.html",
+  "brand": "Canada Sports Betting",
+  "created_by": "gauthambc",
+  "created_at_utc": "2026-02-17 13:46:54 UTC",
+  "table_name_words": "puerto rico travel searches US",
+  "widget_title": "",
+  "widget_subtitle": "",
+  "config": {
+    "brand": "Canada Sports Betting",
+    "title": "Table 1",
+    "subtitle": "Subheading",
+    "striped": true,
+    "show_header": true,
+    "center_titles": false,
+    "branded_title_color": true,
+    "show_footer": true,
+    "footer_logo_align": "Center",
+    "footer_logo_h": 36,
+    "show_footer_notes": false,
+    "footer_notes": "",
+    "show_heat_scale": false,
+    "cell_align": "Center",
+    "show_search": true,
+    "show_pager": true,
+    "show_embed": true,
+    "show_page_numbers": true,
+    "bar_columns": [],
+    "bar_max_overrides": {},
+    "bar_fixed_w": 200,
+    "heat_columns": [],
+    "heat_overrides": {
+      "Total search interest (per 1M residents)": {}
+    },
+    "heat_strength": 0.55,
+    "heatmap_style": "Branded heatmap",
+    "header_style": "Keep original"
+  },
+  "col_format_rules": {},
+  "csv": "Rank,State,Total search interest (per 1M residents),Weekly change in search interest (%),Puerto Rico searches (per 1M residents),San Juan searches (per 1M residents),Hispanic or Latino population (%),Spanish speakers (%),Puerto Rican population (%),2024 Presidential Winner (Party),2024 Presidential Winner (Candidate)\n1,District of Columbia,3873,+44%,3176,698,12.6,9.3,1.09,Democratic,Kamala Harris\n2,Connecticut,2453,-2%,2066,387,19.2,13.0,8.22,Democratic,Kamala Harris\n3,New Jersey,2298,+12%,1939,358,23.5,17.9,5.1,Democratic,Kamala Harris\n4,New York,2058,+15%,1693,365,20.2,15.0,5.04,Democratic,Kamala Harris\n5,Maryland,2011,Not available,1701,310,13.3,10.1,1.21,Democratic,Kamala Harris\n6,Delaware,1998,+28%,1683,316,11.7,8.0,3.29,Democratic,Kamala Harris\n7,Massachusetts,1912,+18%,1620,292,14.0,9.9,4.63,Democratic,Kamala Harris\n8,Rhode Island,1819,+2%,1536,283,18.8,14.2,4.4,Democratic,Kamala Harris\n9,Florida,1716,+16%,1445,271,28.7,23.4,5.57,Republican,Donald Trump\n10,Pennsylvania,1671,+14%,1411,260,9.4,6.0,3.77,Republican,Donald Trump\n11,Virginia,1629,+5%,1412,217,11.6,8.2,1.35,Democratic,Kamala Harris\n12,Illinois,1391,+7%,1178,214,19.4,14.1,1.43,Democratic,Kamala Harris\n13,North Carolina,1261,+9%,1037,224,12.0,9.2,1.36,Republican,Donald Trump\n13,Texas,1261,+23%,1091,170,40.3,28.2,0.83,Republican,Donald Trump\n15,Vermont,1101,-15%,953,148,2.7,1.4,0.53,Democratic,Kamala Harris\n16,South Carolina,1034,+14%,873,161,7.9,5.4,1.17,Republican,Donald Trump\n17,Ohio,1007,+9%,828,179,5.1,2.9,1.29,Republican,Donald Trump\n18,Michigan,989,+16%,838,151,6.1,3.4,0.56,Republican,Donald Trump\n19,Minnesota,975,+6%,826,149,6.7,4.5,0.42,Democratic,Kamala Harris\n20,Wisconsin,973,-12%,843,130,8.4,5.2,1.21,Republican,Donald Trump\n21,Colorado,970,+6%,873,97,23.2,11.3,0.72,Democratic,Kamala Harris\n22,Indiana,965,+5%,817,148,9.0,5.8,0.77,Republican,Donald Trump\n23,Nevada,965,+18%,814,151,30.6,20.9,1.08,Republican,Donald Trump\n24,New Hampshire,943,+8%,796,147,5.0,2.7,1.4,Democratic,Kamala Harris\n25,California,938,+12%,844,93,40.8,28.8,0.54,Democratic,Kamala Harris\n26,Maine,924,+227%,781,142,2.3,1.2,0.58,Democratic,Kamala Harris\n27,Kansas,830,-9%,702,128,14.2,8.4,0.67,Republican,Donald Trump\n28,Arizona,827,+8%,745,82,32.1,19.1,0.87,Republican,Donald Trump\n29,Tennessee,802,+7%,694,108,7.8,5.8,0.6,Republican,Donald Trump\n30,Utah,786,+4%,680,106,16.9,11.6,0.47,Republican,Donald Trump\n31,Iowa,781,-12%,660,120,7.8,4.8,0.55,Republican,Donald Trump\n32,Kentucky,779,+7%,659,120,5.5,3.7,0.54,Republican,Donald Trump\n33,Louisiana,772,-14%,653,119,7.8,5.1,0.42,Republican,Donald Trump\n34,Nebraska,760,-58%,641,119,13.5,9.3,0.26,Republican,Donald Trump\n35,Missouri,754,-14%,639,115,5.6,3.0,0.45,Republican,Donald Trump\n36,Washington,724,-5%,628,97,15.0,9.1,0.52,Democratic,Kamala Harris\n37,Oregon,680,+3%,574,106,15.5,9.2,0.36,Democratic,Kamala Harris\n38,New Mexico,669,+54%,550,119,49.1,24.8,0.35,Democratic,Kamala Harris\n39,Alabama,661,+9%,595,66,6.0,4.0,0.6,Republican,Donald Trump\n40,South Dakota,620,Not available,536,83,4.9,2.8,0.37,Republican,Donald Trump\n41,Oklahoma,615,+62%,519,96,13.5,8.4,0.55,Republican,Donald Trump\n42,North Dakota,603,-100%,496,107,5.0,2.8,0.38,Republican,Donald Trump\n43,Arkansas,580,+87%,522,58,9.5,6.6,0.32,Republican,Donald Trump\n44,West Virginia,576,-53%,499,77,2.3,1.4,0.28,Republican,Donald Trump\n45,Mississippi,570,-72%,484,87,4.0,2.9,0.32,Republican,Donald Trump\n46,Hawaii,564,Not available,478,86,10.2,2.3,2.78,Democratic,Kamala Harris\n47,Idaho,564,Not available,477,86,14.3,8.3,0.18,Republican,Donald Trump\n48,Wyoming,522,-100%,453,70,11.1,4.3,0.27,Republican,Donald Trump\n49,Montana,497,Not available,419,77,4.9,1.5,0.16,Republican,Donald Trump\n50,Alaska,449,Not available,378,70,7.7,3.1,0.74,Republican,Donald Trump\n51,Georgia,10,Not available,8,2,11.6,9.2,1.17,Republican,Donald Trump\n",
+  "hidden_cols": [],
+  "bar_columns": [],
+  "bar_max_overrides": {},
+  "heat_columns": [],
+  "heat_overrides": {
+    "Total search interest (per 1M residents)": {}
+  }
+}
