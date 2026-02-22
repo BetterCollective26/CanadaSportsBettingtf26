@@ -42,5 +42,16 @@
     "created_at_utc": "2026-02-17 14:04:27 UTC",
     "bundle_path": "bundles/puerto-rico-travel-searches-canada.html.json",
     "has_bundle": true
+  },
+  "testfeb.html": {
+    "brand": "Canada Sports Betting",
+    "table_title": "Table 123456",
+    "file": "testfeb.html",
+    "pages_url": "https://bettercollective26.github.io/CanadaSportsBettingtf26/testfeb.html",
+    "github_repo_url": "https://github.com/bettercollective26/CanadaSportsBettingtf26",
+    "created_by": "amybc",
+    "created_at_utc": "2026-02-22 21:29:58 UTC",
+    "bundle_path": "bundles/testfeb.html.json",
+    "has_bundle": true
   }
 }
