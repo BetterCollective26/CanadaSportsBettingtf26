@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "widget_file_name": "testfeb.html",
+  "brand": "Canada Sports Betting",
+  "created_by": "amybc",
+  "created_at_utc": "2026-02-22 21:29:58 UTC",
+  "table_name_words": "testfeb",
+  "widget_title": "Table 123456",
+  "widget_subtitle": "Subheading",
+  "config": {
+    "brand": "Canada Sports Betting",
+    "title": "Table 123456",
+    "subtitle": "Subheading",
+    "striped": true,
+    "show_header": true,
+    "center_titles": false,
+    "branded_title_color": true,
+    "show_footer": true,
+    "footer_logo_align": "Right",
+    "footer_logo_h": 36,
+    "show_footer_notes": true,
+    "footer_notes": "Testing the** table footer **",
+    "show_heat_scale": false,
+    "cell_align": "Center",
+    "show_search": true,
+    "show_pager": true,
+    "show_embed": true,
+    "show_page_numbers": true,
+    "bar_columns": [
+      "Basketball Participants"
+    ],
+    "bar_max_overrides": {},
+    "bar_fixed_w": 200,
+    "heat_columns": [
+      "Basketball Participants"
+    ],
+    "heat_overrides": {
+      "Basketball Participants": {}
+    },
+    "heat_strength": 0.15,
+    "heatmap_style": "Branded heatmap",
+    "header_style": "Keep original"
+  },
+  "col_format_rules": {},
+  "csv": "State,Basketball Schools,Basketball Participants,Bowling Schools,Bowling Participants,Competitive Spirit Schools,Competitive Spirit Participants,Cross Country Schools,Cross Country Participants\nAlabama,416,5210,118.0,244.0,,,279.0,2165.0\nAlaska,160,1425,8.0,26.0,,,94.0,763.0\nArizona,275,6060,235.0,6348.0,,,244.0,2448.0\nArkansas,298,4957,90.0,763.0,139.0,2984.0,205.0,2011.0\nCalifornia,1361,28544,3.0,17.0,527.0,14096.0,1306.0,19135.0\nColorado,346,6527,248.0,6909.0,270.0,3409.0,,\nConnecticut,178,2998,100.0,900.0,170.0,2091.0,,\nDelaware,54,820,,,,51.0,659.0,\nDist. of Columbia,37,542,11.0,51.0,25.0,562.0,31.0,369.0\nFlorida,735,11564,260.0,1488.0,345.0,6264.0,679.0,6636.0\nGeorgia,426,7661,,,224.0,5031.0,406.0,5551.0\nHawaii,66,1178,48.0,369.0,45.0,706.0,68.0,842.0\nIdaho,155,3027,,,93.0,1820.0,130.0,1470.0\nIllinois,793,13859,408.0,2898.0,602.0,6620.0,728.0,7946.0\nIndiana,394,7017,,,366.0,4199.0,,\nIowa,340,5856,118.0,1200.0,,,336.0,4025.0\nKansas,337,5788,91.0,856.0,332.0,4674.0,295.0,2455.0\nKentucky,277,5081,129.0,902.0,248.0,5181.0,250.0,2473.0\nLouisiana,391,5486,96.0,463.0,,,,\nMaine,141,2672,,,71.0,865.0,106.0,903.0\nMaryland,193,3872,4.0,26.0,150.0,4938.0,184.0,2411.0\nMassachusetts,362,8054,,,329.0,4597.0,,\nMichigan,689,13068,380.0,2710.0,335.0,6319.0,626.0,6830.0\nMinnesota,469,9547,,,461.0,4808.0,,\nMississippi,231,8481,58.0,502.0,85.0,2125.0,198.0,2484.0\nMissouri,568,8321,8.0,17.0,,,458.0,4113.0\nMontana,164,2655,,,,117.0,953.0,\nNebraska,305,4878,73.0,620.0,,,264.0,2120.0\nNevada,109,2148,40.0,304.0,,,86.0,747.0\nNew Hampshire,89,1659,16.0,71.0,52.0,1054.0,73.0,749.0\nNew Jersey,422,8828,195.0,1915.0,394.0,5226.0,,\nNew Mexico,154,3335,21.0,82.0,82.0,1912.0,116.0,1285.0\nNew York,703,13324,360.0,2194.0,375.0,7233.0,578.0,4956.0\nNorth Carolina,433,7352,,,424.0,10208.0,395.0,4732.0\nNorth Dakota,160,1992,,,,123.0,724.0,\nOhio,800,13078,506.0,4214.0,660.0,24397.0,758.0,7855.0\nOklahoma,471,6625,,,369.0,6441.0,369.0,3127.0\nOregon,279,5293,,,142.0,2972.0,221.0,2656.0\nPennsylvania,703,17575,169.0,1690.0,342.0,6840.0,600.0,12000.0\nRhode Island,52,1135,,,20.0,560.0,46.0,556.0\nSouth Carolina,222,4526,,,98.0,3739.0,189.0,2826.0\nSouth Dakota,154,2487,,,40.0,662.0,152.0,712.0\nTennessee,391,5739,119.0,934.0,,,340.0,3000.0\nTexas,1373,44953,,,1489.0,52318.0,1381.0,25393.0\nUtah,139,3004,,,107.0,2819.0,133.0,2332.0\nVermont,30,563,3.0,16.0,,,32.0,241.0\nVirginia,316,6859,,,209.0,4143.0,304.0,4150.0\nWashington,376,8033,111.0,1652.0,106.0,1987.0,323.0,4546.0\nWest Virginia,120,1946,,,113.0,2056.0,93.0,789.0\nWisconsin,481,9254,,,,432.0,4813.0,\nWyoming,70,1384,,,33.0,579.0,47.0,452.0\n",
+  "hidden_cols": [],
+  "bar_columns": [
+    "Basketball Participants"
+  ],
+  "bar_max_overrides": {},
+  "heat_columns": [
+    "Basketball Participants"
+  ],
+  "heat_overrides": {
+    "Basketball Participants": {}
+  }
+}
